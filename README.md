@@ -59,7 +59,7 @@ You need internet access for ingestion and generation, plus a Groq API key.
 
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/tanmay-satija/nvidia-rag-bot.git
 cd nvidia-rag-bot
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
