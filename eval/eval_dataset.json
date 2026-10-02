@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was NVIDIA's total revenue for the most recent fiscal year?",
+    "expected_keywords": ["revenue", "billion"],
+    "expected_section_contains": "Management's Discussion"
+  },
+  {
+    "question": "What percentage of revenue came from the Data Center segment?",
+    "expected_keywords": ["data center", "revenue"],
+    "expected_section_contains": "Management's Discussion"
+  },
+  {
+    "question": "What risk factors does NVIDIA cite related to export controls or trade restrictions?",
+    "expected_keywords": ["export", "regulation"],
+    "expected_section_contains": "Risk Factors"
+  },
+  {
+    "question": "How did NVIDIA's gross margin change year-over-year?",
+    "expected_keywords": ["gross margin"],
+    "expected_section_contains": "Management's Discussion"
+  },
+  {
+    "question": "What legal proceedings is NVIDIA currently involved in?",
+    "expected_keywords": ["litigation", "legal"],
+    "expected_section_contains": "Legal Proceedings"
+  },
+  {
+    "question": "What does NVIDIA say about competition in the GPU market?",
+    "expected_keywords": ["compet"],
+    "expected_section_contains": "Risk Factors"
+  },
+  {
+    "question": "What is NVIDIA's stock buyback or dividend policy?",
+    "expected_keywords": ["dividend", "repurchase", "buyback"],
+    "expected_section_contains": null
+  },
+  {
+    "question": "What was NVIDIA's research and development spending?",
+    "expected_keywords": ["research and development", "R&D"],
+    "expected_section_contains": "Management's Discussion"
+  }
+]
